@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/salon-management-system/static/css/main.91b459e4.css",
+    "main.js": "/salon-management-system/static/js/main.13abd6cb.js",
+    "static/js/787.ac73ebde.chunk.js": "/salon-management-system/static/js/787.ac73ebde.chunk.js",
+    "static/media/boxicons.svg": "/salon-management-system/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/salon-management-system/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/salon-management-system/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/salon-management-system/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/3.jpg": "/salon-management-system/static/media/3.3dd8e941ade1b940639d.jpg",
+    "static/media/4.jpg": "/salon-management-system/static/media/4.352e4b74a2376e7f4b71.jpg",
+    "static/media/bootstrap-icons.woff?": "/salon-management-system/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/boxicons.woff2": "/salon-management-system/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/bootstrap-icons.woff2?": "/salon-management-system/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/salon-management-system/index.html",
+    "main.91b459e4.css.map": "/salon-management-system/static/css/main.91b459e4.css.map",
+    "main.13abd6cb.js.map": "/salon-management-system/static/js/main.13abd6cb.js.map",
+    "787.ac73ebde.chunk.js.map": "/salon-management-system/static/js/787.ac73ebde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b459e4.css",
+    "static/js/main.13abd6cb.js"
+  ]
+}
