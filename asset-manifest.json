@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/salon-management-system/static/css/main.91b459e4.css",
-    "main.js": "/salon-management-system/static/js/main.13abd6cb.js",
+    "main.js": "/salon-management-system/static/js/main.ec58f6c2.js",
     "static/js/787.ac73ebde.chunk.js": "/salon-management-system/static/js/787.ac73ebde.chunk.js",
     "static/media/boxicons.svg": "/salon-management-system/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/salon-management-system/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -14,11 +14,11 @@
     "static/media/bootstrap-icons.woff2?": "/salon-management-system/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "index.html": "/salon-management-system/index.html",
     "main.91b459e4.css.map": "/salon-management-system/static/css/main.91b459e4.css.map",
-    "main.13abd6cb.js.map": "/salon-management-system/static/js/main.13abd6cb.js.map",
+    "main.ec58f6c2.js.map": "/salon-management-system/static/js/main.ec58f6c2.js.map",
     "787.ac73ebde.chunk.js.map": "/salon-management-system/static/js/787.ac73ebde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91b459e4.css",
-    "static/js/main.13abd6cb.js"
+    "static/js/main.ec58f6c2.js"
   ]
 }
